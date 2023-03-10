@@ -251,15 +251,13 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  list-style: none;
+  margin-top: 20px;
 }
 .footer__column-link {
   text-decoration: none;
   list-style-type: none;
   color: #f2f2f2;
-}
-.footer__column-links {
-  list-style: none;
-  margin-top: 20px;
 }
 .footer__social-icon {
   list-style-type: none;
